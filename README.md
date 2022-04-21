@@ -1,0 +1,2 @@
+# crack
+Script untuk turu:")
