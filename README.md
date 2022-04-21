@@ -1,5 +1,5 @@
 ```python
-git clone https://guthub.com/Xenx-11/crack
+git clone https://github.com/Xenz-11/crack
 cd crack
 python xenz.py
 ```
